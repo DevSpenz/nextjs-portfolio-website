@@ -8,7 +8,7 @@ function About() {
       <Header title='About me'/>
       <div className='grid gap-4 items-center md:[grid-template-columns:1fr_1fr] py-10 px-5 sm:px-10'>
         <div>
-          <Image src="/images/about-image.webp" alt='about-image' width={500} height={500} className='rounded-lg w-full object-cover'/>
+          <Image src="/images/mypic.jpeg" alt='about-image' width={500} height={500} className='rounded-lg w-full object-cover'/>
         </div>
 
         <div className='flex flex-col gap-4 lg:p-10'>
